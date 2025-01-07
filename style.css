@@ -86,16 +86,17 @@ body{
     }
 }
 
-@media screen and (max-width:300px) {
+@media screen and (max-width:350px) {
     #boxU{
-        height: 70%
+        height: 60%
     }
     #boxB{
-        height:30%;
+        height:40%;
         flex-direction: column;
     }
     
     .btn{
         width: 80%;
+        border: solid black;
     }
 }
