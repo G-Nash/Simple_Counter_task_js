@@ -82,6 +82,20 @@ body{
     }
 
     .btn{
-        font-size: 1rem;
+        font-size: .8rem;
+    }
+}
+
+@media screen and (max-width:300px) {
+    #boxU{
+        height: 70%
+    }
+    #boxB{
+        height:30%;
+        flex-direction: column;
+    }
+    
+    .btn{
+        width: 80%;
     }
 }
