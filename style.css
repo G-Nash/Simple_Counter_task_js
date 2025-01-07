@@ -85,6 +85,10 @@ body{
 
     font-size: 3rem;
     text-align: center;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
@@ -100,6 +104,10 @@ body{
 
     .btn{
         font-size: .8rem;
+    }
+
+    .btnU{
+        font-size: 2rem;
     }
 }
 
