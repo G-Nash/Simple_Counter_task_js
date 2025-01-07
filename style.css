@@ -72,6 +72,10 @@ body{
 
 
 @media screen and (max-width:600px) {
+    #nav{
+        font-size: 1.5rem;
+        height: 5vh;
+    }
     #box{
         width: 90%;
         height: 50%;
