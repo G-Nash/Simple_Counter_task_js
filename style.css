@@ -86,7 +86,7 @@ body{
     }
 }
 
-@media screen and (max-width:450px) {
+@media screen and (max-width:300px) {
     #boxU{
         height: 70%
     }
